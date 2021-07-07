@@ -1,17 +1,12 @@
 <h1 align="center">Olá, me chamo Leonardo Marques</h1>
-<h3 align="center">Estudante de desenvolvimento e apaixonado por tecnologia.</h3>
+<h3 align="center">Estudante de programação e apaixonado por tecnologia.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonmarqs" alt="leonmarqs" /></a> </p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leonmarqs&show_icons=true&locale=en" alt="leonmarqs" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmarqs&show_icons=true&locale=en&layout=compact" alt="leonmarqs" /></p>
-
-- 🌱 Estou atualmente aprendendo **Desenvolvimento web, Typescript, ReactJs, NodeJs, Firebase | Java, C, etc.**
-
-- Como me contatar 
-- **leomarques301@gmail.com**
-- [LinkedIn](https://www.linkedin.com/in/leonardo-marques-ti/)
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonmarqs" alt="leonmarqs" /></a> </p> -->
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonmarqs&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="leonmarqs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmarqs&show_icons=true&locale=en&layout=compact&theme=dark" alt="leonmarqs" />
+</p>
+- 🌱 Estou atualmente aprendendo Desenvolvimento Web, Typescript, ReactJs, NodeJs, Firebase | Java, C, etc.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
@@ -35,5 +30,7 @@
   <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
+<a href = "mailto: leomarques301@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/leonardo-marques-ti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Snake animation](https://github.com/LeonMarqs/LeonMarqs/blob/output/github-contribution-grid-snake.svg)
