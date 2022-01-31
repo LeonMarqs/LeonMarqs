@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonmarqs&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="leonmarqs" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmarqs&show_icons=true&locale=en&layout=compact&theme=dark" alt="leonmarqs" />
 </p>
-- 🌱 Estou atualmente aprendendo Desenvolvimento Web, Typescript, ReactJs, NodeJs, Firebase | Java, C, etc.
+- 🌱 Estou atualmente aprendendo Oracle SQL, PL/SQL, Java (web services SOAP e REST), React, etc.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
