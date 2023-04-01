@@ -1,12 +1,12 @@
 <h1 align="center">Olá, me chamo Leonardo Marques</h1>
-<h3 align="center">formado em ADS e apaixonado por tecnologia.</h3>
+<h3 align="center">Sou formado em ADS e apaixonado por tecnologia.</h3>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonmarqs" alt="leonmarqs" /></a> </p> -->
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonmarqs&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="leonmarqs" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmarqs&show_icons=true&locale=en&layout=compact&theme=dark" alt="leonmarqs" />
 </p>
-- 🌱 Estou atualmente aprendendo Oracle SQL, PL/SQL, Java (web services SOAP e REST), React, etc.
+- 🌱 Estou atualmente atuando em Oracle SQL, PL/SQL, Java (serviços REST), React, etc.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
