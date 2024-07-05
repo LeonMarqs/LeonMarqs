@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonmarqs&show_icons=true&locale=en&theme=dark&include_all_commits=true" alt="leonmarqs" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonmarqs&show_icons=true&locale=en&layout=compact&theme=dark" alt="leonmarqs" />
 </p>
-- 🌱 Estou atualmente atuando em Oracle SQL, PL/SQL, Java (serviços REST), React, etc.
+- 🌱 Estou atualmente trabalhando com Java EE, PL/SQL, React/Next, Docker, etc.
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left"> 
